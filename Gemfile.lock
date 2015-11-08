@@ -1,0 +1,12 @@
+GEM
+  specs:
+    tlearn (0.0.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  tlearn
+
+BUNDLED WITH
+   1.10.6
